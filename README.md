@@ -1,6 +1,6 @@
 ![Technochest youtube2](https://user-images.githubusercontent.com/85039215/120913737-4e265c00-c667-11eb-83f6-346e7c45b94c.png)
 
-## Hi everyone,
+## Hi Everyone,
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/technochest)](https://www.instagram.com/technochest)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C&link=https://twitter.com/technochest1)](https://twitter.com/technochest1)
