@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:jb@technochest.com)](mailto:jb@technochest.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/technochest/)](https://www.linkedin.com/in/technochest/)
 
-- I am JB aka technochest.  I am a reformed accountant and techwiz with both accounting and computer science background.  I focus on creating E2E systems using various programming langugues (Python, React, C++, Java, Macros/VB, C#)...I have been a technical accountant in my entire accounting/fiannce career.  I have provided various technical solutions to many redundant and time consuming tasks:
+- Welcome to Github Technochest, this is JB.  I am a reformed accountant and techwiz with both accounting and computer science background.  I focus on creating E2E systems using various programming langugues (Python, React, C++, Java, Macros/VB, C#)...I have been a technical accountant in my entire accounting/fiannce career.  I have provided various technical solutions to many redundant and time consuming tasks:
    -  Wrote C++ code to reconcile multiple GL accounts to resolve discrpencies in data
    -  Created Financial Statements/Financial Models with Python and Macros 
    -  Created an Electronic Payroll Systems, Accounting Pack, Real-Time Consolidated Budget Trackers
