@@ -9,7 +9,7 @@
 
 - Welcome to Github Technochest, this is JB.  I am a reformed accountant and software developer with both accounting and computer science background.  I focus on creating E2E web, mobile, and desktop applications.  I have a working knowledge of:
    -  HTML, CSS, Javascript, PHP, NodeJS, Angular, jQuery, Python, React, C++, C#, Java, Macros/VB, SQL, PostgreSQL, Mongos)...
-   -  ***You can check out some of my projects here: http://www.technochest.com/portfolio.***
+   -  ***You can check out my projects here: http://www.technochest.com/portfolio.***
  
  I have been a technical accountant in my entire accounting/fiannce career.  I have provided various technical solutions to many redundant and time consuming tasks:
    -  Ceate C++ code to reconcile multiple GL accounts to resolve discrpencies in data
