@@ -1,4 +1,4 @@
-![Technochest youtube2](https://studio.youtube.com/channel/UCUZV4fVm0u1bktm9WWuLt_Q/editing/images)
+![Technochest youtube2](https://studio.youtube.com/channel/UCUZV4fVm0u1bktm9WWuLt_Q)
 
 ## Hi,
 
