@@ -1,4 +1,4 @@
-![Technochest youtube2](https://user-images.githubusercontent.com/85039215/120913737-4e265c00-c667-11eb-83f6-346e7c45b94c.png)
+![Technochest youtube2](https://pbs.twimg.com/profile_banners/1399310964277886979/1659646977/600x200)
 
 ## Hi,
 
