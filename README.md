@@ -1,4 +1,4 @@
-![Technochest youtube2](https://pbs.twimg.com/profile_banners/1399310964277886979/1659646977/600x200)
+![Technochest youtube2](https://pbs.twimg.com/profile_banners/1399310964277886979/1659646977)
 
 ## Hi,
 
